@@ -1,12 +1,12 @@
 
 .gallery{
     margin: auto;
-    width: 950px
+    width: 30%;
 }
 
 .nav {
     background-color: rgb(34, 31, 31);
-    width: 1000px;
+    width: 30%;
     position: fixed;
     margin-top: 0px;
     padding-top: 0px;
@@ -31,7 +31,7 @@ nav {
 .desc1 {
     background-color: rgb(34, 31, 31);
      margin: auto;
-    width: 1000px;
+    width: 33%;
     
 }
 h2 {
@@ -56,7 +56,7 @@ h2 {
 
 .foto1 {
     background-image: url(./assets/1.jpeg);
-    width: 950px;
+    width: 30%;
     height: 1000px; 
     background-attachment: fixed;
     background-position: center;
@@ -72,7 +72,7 @@ h2 {
 
 .foto2 {
     background-image: url(./assets/2.jpeg);
-    width: 950px;
+    width: 30%;
     min-height: 1000px; 
     background-attachment: fixed;
     background-position: center;
@@ -83,7 +83,7 @@ h2 {
 } 
 .foto3 {
     background-image: url(./assets/3.jpeg);
-    width: 950px;
+    width: 30%;
     min-height: 1000px; 
     background-attachment: fixed;
     background-position: center;
@@ -94,7 +94,7 @@ h2 {
 } 
 .foto4 {
     background-image: url(./assets/4.jpeg);
-    width: 950px;
+    width: 30%;
     min-height: 1000px; 
     background-attachment: fixed;
     background-position: center;
